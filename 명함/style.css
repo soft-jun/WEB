@@ -1,0 +1,60 @@
+.table_1{
+    border: 2px solid #182746;
+    border-radius: 3px;
+    background:#2a395a !important;
+    padding:20px 30px; 
+    font-family: '나눔고딕',nanumgothic,'돋움',Dotum,Helvetica,'Apple SD Gothic Neo',Sans-serif;
+}
+td{
+    height: 35px;
+    border: 0;
+}
+.strong_1{
+    font-size: 12px;
+    line-height: 20px;
+}
+.span_1{
+    font-size: 13pt;
+    color: #ffffff;
+}
+
+.span_2{
+    font-size: 10px; 
+    color: #ffffff;
+}
+
+.span_3{
+    font-size: 13pt; 
+    color: #ffffff;
+    text-align:right;
+    display:block;
+}
+
+li{
+    float:left;
+}
+
+.strong_2 {
+    margin: 3px 1px;
+    color:#ffffff; 
+}
+
+.td_1{
+    border: 0;
+    border-top:2px solid #687796;
+    line-height:20px;
+}
+
+.ul_1{
+    color: #43beca; 
+    font-size: 12px;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.ul_2{
+    color: #dde9fe; 
+    font-size: 12px; 
+    list-style-type: none;
+    padding:0;
